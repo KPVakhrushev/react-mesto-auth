@@ -38,7 +38,8 @@
 
 ## **Демонстрация**
 
-Проект размещен [в github pages](https://kpvakhrushev.github.io/react-mesto-auth/)
+Проект размещен [в github pages](https://kpvakhrushev.github.io/yp-5-mesto-react-auth/)
 
 ## **Планы по доработке проекта**
-ННачиная с  проектной работы 13 будет начата разработка серверной части приложения Mesto
+Дальнейшее развитие проекта Mesto ведется в репозитори [yp-6-mesto-backend](https://github.com/KPVakhrushev/yp-6-mesto-backend).
+Изменений в данном репозитории далее не планируется.
